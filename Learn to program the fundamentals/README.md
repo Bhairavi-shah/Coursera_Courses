@@ -1,8 +1,7 @@
 Learn to program the fundamentals
 =================================
 
-This folder contains documents and code related to the course [**Learn to program the fundamentals
-**](https://www.coursera.org/learn/learn-to-program/) by University of Toronto
+This folder contains documents and code related to the course [Learn to program the fundamentals](https://www.coursera.org/learn/learn-to-program/) by University of Toronto
 
 Week 1:
 -------

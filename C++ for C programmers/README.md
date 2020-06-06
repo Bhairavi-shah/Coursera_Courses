@@ -1,8 +1,7 @@
 C++ for C Programmers
 =====================
 
-This folder contains documents and code related to the course [**C++ for C Programmers, Part A
-**](https://www.coursera.org/learn/c-plus-plus-a/) by University of California, Santa Cruz
+This folder contains documents and code related to the course [C++ for C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a/) by University of California, Santa Cruz
 
 Week 1:
 -------

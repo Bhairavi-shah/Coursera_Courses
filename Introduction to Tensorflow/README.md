@@ -1,8 +1,7 @@
 Introduction to Tensorflow
 ==========================
 
-This folder contains documents and code related to the course [**Introduction to Tensorflow
-**](https://www.coursera.org/learn/introduction-tensorflow/) by deeplearning.ai
+This folder contains documents and code related to the course [Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow/) by deeplearning.ai
 
 Week 1:
 -------

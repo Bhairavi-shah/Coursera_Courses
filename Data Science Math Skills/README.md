@@ -1,8 +1,7 @@
 Data Science Math Skills
 ========================
 
-This folder contains documents and code related to the course [**Data Science Math Skills
-**](https://www.coursera.org/learn/datasciencemathskills) by Duke University
+This folder contains documents and code related to the course [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) by Duke University
 
 Week 1:
 -------
